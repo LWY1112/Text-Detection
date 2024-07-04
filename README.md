@@ -83,10 +83,4 @@ print(image_to_text)
 - Ensure the path to the Tesseract executable is correct.
 - The `lang` parameter in `image_to_string` can be changed to perform OCR in different languages, provided the language data is available in Tesseract-OCR.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-This README provides a comprehensive overview of your project, from installation to usage. Adjust any paths and details as necessary to fit your specific setup.
